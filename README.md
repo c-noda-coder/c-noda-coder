@@ -1,15 +1,20 @@
-## Hi there 👋
+# 大文字1
+
+## 大文字2
+5まであるよ
 
 
-**c-noda-coder/c-noda-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--------
 
-Here are some ideas to get you started:
+> あああ
+>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- なかてん
+
+ああ*ああ*ああ
+
+ああ**ああ**ああ
+
+ああ***ああ***ああ
+
+ああ`aaaw`ああ
